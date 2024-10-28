@@ -7,7 +7,7 @@ namespace MasterPiece.API.Controllers;
 //controller call service --> service call repository --> repository call database
 // api routing rule collection/resource/collection/resource
 // example of routing rule users/1/repos/5
-[Microsoft.AspNetCore.Components.Route("api/usermanagement")]
+[Route("api/usermanagement")]
 public class UserManagementController(IUserManagementService _userManagementService) : BaseApiController
 {
     private readonly IUserManagementService _userManagementService = _userManagementService;

@@ -7,15 +7,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Repositories\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <PackageReference Include="EFCore.NamingConventions" Version="8.0.3" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0-rc.2.24474.1" />
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\MasterPiece.Application\MasterPiece.Application.csproj" />
       <ProjectReference Include="..\MasterPiece.Domain\MasterPiece.Domain.csproj" />
     </ItemGroup>
 
