@@ -1,0 +1,15 @@
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\bin\Debug\net8.0\MasterPiece.Application.deps.json
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\bin\Debug\net8.0\MasterPiece.Application.dll
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\bin\Debug\net8.0\MasterPiece.Application.pdb
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\bin\Debug\net8.0\MasterPiece.Domain.dll
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\bin\Debug\net8.0\MasterPiece.Domain.pdb
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\obj\Debug\net8.0\MasterPiece.Application.csproj.AssemblyReference.cache
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\obj\Debug\net8.0\MasterPiece.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\obj\Debug\net8.0\MasterPiece.Application.AssemblyInfoInputs.cache
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\obj\Debug\net8.0\MasterPiece.Application.AssemblyInfo.cs
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\obj\Debug\net8.0\MasterPiece.Application.csproj.CoreCompileInputs.cache
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\obj\Debug\net8.0\MasterPi.25055D55.Up2Date
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\obj\Debug\net8.0\MasterPiece.Application.dll
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\obj\Debug\net8.0\refint\MasterPiece.Application.dll
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\obj\Debug\net8.0\MasterPiece.Application.pdb
+D:\NoumansProj\MasterPiece\src\MasterPiece.Application\obj\Debug\net8.0\ref\MasterPiece.Application.dll

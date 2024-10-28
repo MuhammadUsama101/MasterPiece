@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "MasterPiece.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MasterPiece.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MasterPiece.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MasterPiece.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MasterPiece.Domain/MasterPiece.Domain.csproj",
+      "msbuildProject": "../MasterPiece.Domain/MasterPiece.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "MasterPiece.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\digitl\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\NoumansProj\\MasterPiece\\src\\MasterPiece.Application\\MasterPiece.Application.csproj",
+      "projectName": "MasterPiece.Application",
+      "projectPath": "D:\\NoumansProj\\MasterPiece\\src\\MasterPiece.Application\\MasterPiece.Application.csproj",
+      "packagesPath": "C:\\Users\\digitl\\.nuget\\packages\\",
+      "outputPath": "D:\\NoumansProj\\MasterPiece\\src\\MasterPiece.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\digitl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\NoumansProj\\MasterPiece\\src\\MasterPiece.Domain\\MasterPiece.Domain.csproj": {
+              "projectPath": "D:\\NoumansProj\\MasterPiece\\src\\MasterPiece.Domain\\MasterPiece.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

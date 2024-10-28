@@ -1,0 +1,11 @@
+D:\NoumansProj\MasterPiece\src\MasterPiece.Domain\bin\Debug\net8.0\MasterPiece.Domain.deps.json
+D:\NoumansProj\MasterPiece\src\MasterPiece.Domain\bin\Debug\net8.0\MasterPiece.Domain.dll
+D:\NoumansProj\MasterPiece\src\MasterPiece.Domain\bin\Debug\net8.0\MasterPiece.Domain.pdb
+D:\NoumansProj\MasterPiece\src\MasterPiece.Domain\obj\Debug\net8.0\MasterPiece.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\NoumansProj\MasterPiece\src\MasterPiece.Domain\obj\Debug\net8.0\MasterPiece.Domain.AssemblyInfoInputs.cache
+D:\NoumansProj\MasterPiece\src\MasterPiece.Domain\obj\Debug\net8.0\MasterPiece.Domain.AssemblyInfo.cs
+D:\NoumansProj\MasterPiece\src\MasterPiece.Domain\obj\Debug\net8.0\MasterPiece.Domain.csproj.CoreCompileInputs.cache
+D:\NoumansProj\MasterPiece\src\MasterPiece.Domain\obj\Debug\net8.0\MasterPiece.Domain.dll
+D:\NoumansProj\MasterPiece\src\MasterPiece.Domain\obj\Debug\net8.0\refint\MasterPiece.Domain.dll
+D:\NoumansProj\MasterPiece\src\MasterPiece.Domain\obj\Debug\net8.0\MasterPiece.Domain.pdb
+D:\NoumansProj\MasterPiece\src\MasterPiece.Domain\obj\Debug\net8.0\ref\MasterPiece.Domain.dll

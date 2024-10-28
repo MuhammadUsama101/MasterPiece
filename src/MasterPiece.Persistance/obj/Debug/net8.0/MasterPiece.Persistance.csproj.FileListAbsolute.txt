@@ -1,0 +1,11 @@
+D:\NoumansProj\MasterPiece\src\MasterPiece.Persistance\bin\Debug\net8.0\MasterPiece.Persistance.deps.json
+D:\NoumansProj\MasterPiece\src\MasterPiece.Persistance\bin\Debug\net8.0\MasterPiece.Persistance.dll
+D:\NoumansProj\MasterPiece\src\MasterPiece.Persistance\bin\Debug\net8.0\MasterPiece.Persistance.pdb
+D:\NoumansProj\MasterPiece\src\MasterPiece.Persistance\obj\Debug\net8.0\MasterPiece.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\NoumansProj\MasterPiece\src\MasterPiece.Persistance\obj\Debug\net8.0\MasterPiece.Persistance.AssemblyInfoInputs.cache
+D:\NoumansProj\MasterPiece\src\MasterPiece.Persistance\obj\Debug\net8.0\MasterPiece.Persistance.AssemblyInfo.cs
+D:\NoumansProj\MasterPiece\src\MasterPiece.Persistance\obj\Debug\net8.0\MasterPiece.Persistance.csproj.CoreCompileInputs.cache
+D:\NoumansProj\MasterPiece\src\MasterPiece.Persistance\obj\Debug\net8.0\MasterPiece.Persistance.dll
+D:\NoumansProj\MasterPiece\src\MasterPiece.Persistance\obj\Debug\net8.0\refint\MasterPiece.Persistance.dll
+D:\NoumansProj\MasterPiece\src\MasterPiece.Persistance\obj\Debug\net8.0\MasterPiece.Persistance.pdb
+D:\NoumansProj\MasterPiece\src\MasterPiece.Persistance\obj\Debug\net8.0\ref\MasterPiece.Persistance.dll

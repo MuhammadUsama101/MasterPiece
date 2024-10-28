@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MasterPiece.Application/1.0.0": {
+        "dependencies": {
+          "MasterPiece.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MasterPiece.Application.dll": {}
+        }
+      },
+      "MasterPiece.Domain/1.0.0": {
+        "runtime": {
+          "MasterPiece.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MasterPiece.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MasterPiece.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
